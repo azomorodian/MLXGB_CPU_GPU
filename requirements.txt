@@ -1,0 +1,12 @@
+# Core scientific stack (XGBoost_DigitClassifier.py)
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3,<1.6
+xgboost>=2.0.0
+
+# Recommended for residual plots, ROC curves, and feature-importance figures
+matplotlib>=3.7
+seaborn>=0.13
+
+# Optional: Jupyter execution path
+jupyterlab>=4.0
